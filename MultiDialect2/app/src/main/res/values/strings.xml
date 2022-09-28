@@ -1,0 +1,294 @@
+<resources>
+    <string name="app_name">MultiDialect</string>
+
+    <string name="numbers">
+        \u0020零 \n
+        \u0020rei = 0 \n\n
+        \u0020いち \n
+        \u0020ichi = 1 \n\n
+        \u0020に \n
+        \u0020ni = 2 \n\n
+        \u0020さん
+        \u0020san = 3 \n\n
+        \u0020し、よん \n
+        \u0020shi, yon = 4 \n\n
+        \u0020ご \n
+        \u0020go = 5 \n\n
+        \u0020ろく \n
+        \u0020roku = 6 \n\n
+        \u0020しち、なな \n
+        \u0020shichi, nana = 7 \n\n
+        \u0020はち \n
+        \u0020hachi = 8 \n\n
+        \u0020く、きゅう \n
+        \u0020ku, kyuu = 9 \n\n
+        \u0020じゅう\n
+        \u0020juu = 10 \n\n
+        Adding 1 “ichi” (いち) as a suffix to 10 “juu” (じゅう), and you will get 11 じゅういち(juu-ichi). So, counting from 10 to 20 in Japanese just means repeating this same pattern until number 19.\n\n
+        \u0020じゅういち\n
+        \u0020Jū-ichi = 11 \n\n
+        \u0020じゅうに \n
+        \u0020Jū-ni = 12 \n\n
+        \u0020じゅうさん \n
+        \u0020Jū-san = 13 \n\n
+        \u0020じゅうよん、じゅうし \n
+        \u0020Jū-yon, jū-shi = 14\n\n
+        \u0020じゅうご \n
+        \u0020Jū-go = 15\n\n
+        \u0020じゅうろく \n
+        \u0020Jū-roku = 16\n\n
+        \u0020じゅうしち、じゅうなな\n
+        \u0020Jū-shichi, jū-nana = 17\n\n
+        \u0020じゅうはち \n
+        \u0020Jū-hachi = 18\n\n
+        \u0020じゅうきゅう \n
+        \u0020Jū-kyū = 19\n\n
+        \u0020にじゅう \n
+        \u0020Ni-jū = 20\n\n
+        \u0020100 is pronounced as “hyaku” in Japanese \n\n
+        \u0020ひゃくいち \n
+        \u0020hyaku-ichi = 101\n\n
+        \u0020ひゃくよんじゅうご \n
+        \u0020hyaku-yon-ju go = 145\n\n
+        \u0020ひゃくきゅうじゅうきゅう \n
+        \u0020hyaku-kyu-ju kyu = 199\n
+    </string>
+    <string name="Greetings">
+        \u0020おはようございます \n
+        \u0020Ohayou-gozaimasu = Good morning \n\n
+        \u0020こんにちは \n
+        \u0020Kon’nichiwa = Hello \n\n
+        \u0020こんばんは \n
+        \u0020Konbanwa = Good evening/hello (during evening/night) \n\n
+        \u0020ありがとうございます
+        \u0020Arigatou gozaimasu = Thank you \n\n
+        \u0020おやすみなさい \n
+        \u0020Oyasumi nasai = Good night \n\n
+        \u0020さようなら \n
+        \u0020Sayōnara = if it is so, farewell \n\n
+        \u0020ごきげんよう \n
+        \u0020gokigenyō = farewell \n\n
+        \u0020行ってきます \n
+        \u0020Ittekimasu = I’ll go and come back \n\n
+        \u0020行ってらしゃい \n
+        \u0020itterasshai = please go and come back \n\n
+        \u0020ただいま \n
+        \u0020Tadaima = I have come back now \n\n
+        \u0020おかえり\n
+        \u0020okaeri = welcome back \n\n
+        \u0020もしもし\n
+        \u0020Moshi moshi = Hello (when answering phone) \n\n
+        \u0020お疲れ様です \n
+        \u0020Otsukaresama desu = Thank you for your hard work \n\n
+        \u0020ようこそ \n
+        \u0020Yōkoso = Welcome \n\n
+        \u0020いらっしゃいませ \n
+        \u0020irasshaimase = Welcome (service staff greeting) \n\n
+    </string>
+    <string name="Jobs">
+         \u0020	いしゃ \n
+        \u0020isha = Doctor \n\n
+        \u0020かんごふ \n
+        \u0020kango fu = Female Nurse \n\n
+        \u0020かんごし \n
+        \u0020kango shi = Nurse \n\n
+        \u0020しかい
+        \u0020shikai = Dentist \n\n
+        \u0020かがくしゃ \n
+        \u0020kagaku sha = Scientist \n\n
+        \u0020びようし \n
+        \u0020biyou shi = Hairdresser \n\n
+        \u0020きょうし \n
+        \u0020kyoushi = School Teacher \n\n
+        \u0020せんせい \n
+        \u0020sensei = Teacher \n\n
+        \u0020かしゅ \n
+        \u0020kashu = Singer \n\n
+        \u0020うんてんしゅ \n
+        \u0020unten shu = Driver \n\n
+        \u0020やきゅうせんしゅ\n
+        \u0020yakyuu senshu = Baseball Player \n\n
+        \u0020サッカーせんしゅ\n
+        \u0020sakka- senshu = Soccer Player \n\n
+        \u0020がか \n
+        \u0020gaka = Painter \n\n
+        \u0020げいじゅつか \n
+        \u0020geijutsu ka = Artist \n\n
+        \u0020しゃしんか \n
+        \u0020shashin ka = Photographer\n\n
+        \u0020さっか \n
+        \u0020sakka = Writer\n\n
+    </string>
+    <string name="Countries">
+        \u0020アフリカ \n
+        \u0020afurika = Africa \n\n
+        \u0020アフガニスタン \n
+        \u0020	a fu ga ni su tan = Afghanistan \n\n
+        \u0020アルバニア \n
+        \u0020a ru ba ni a = Albania \n\n
+        \u0020アルジェリア
+        \u0020a ru je ri a = Algeria \n\n
+        \u0020アメリカ \n
+        \u0020a me ri ka = America (USA) \n\n
+        \u0020アルゼンチン \n
+        \u0020a ru zen chin = Argentina \n\n
+        \u0020ごうしゅう \n
+        \u0020gou shuu = Australia \n\n
+        \u0020オーストリア \n
+        \u0020o- su to ri a = Austria \n\n
+        \u0020バハマ \n
+        \u0020ba ha ma = Bahamas \n\n
+        \u0020バーレーン \n
+        \u0020ba- re-n = Bahrain \n\n
+        \u0020バングラデシュ\n
+        \u0020ban gu ra de shu = Bangladesh \n\n
+        \u0020ブラジル\n
+        \u0020bu ra ji ru = Brazil \n\n
+        \u0020ブルネイ \n
+        \u0020bu ru ne i = Brunei \n\n
+        \u0020カナダ \n
+        \u0020ka na da = Canada \n\n
+        \u0020ちゅうごく \n
+        \u0020chuu goku = China \n\n
+        \u0020えいこく \n
+        \u0020ei koku = Great Britain \n\n
+        \u0020シンガポール \n
+        \u0020shin ga po- ru = Singapore\n\n
+    </string>
+    <string name="Hobbies">
+         \u0020作曲 \n
+        \u0020sakkyoku = making music \n\n
+        \u0020アクセサリー作り \n
+        \u0020akusesarī zukuri = making accessories \n\n
+        \u0020ファッション \n
+        \u0020fasshon = fashion \n\n
+        \u0020プログラミング
+        \u0020puroguramingu = computer programming \n\n
+        \u0020楽器演奏 \n
+        \u0020gakki ensō = playing an instrument \n\n
+        \u0020イラスト \n
+        \u0020irasuto = drawing \n\n
+        \u0020日記 \n
+        \u0020nikki = journaling \n\n
+        \u0020読書 \n
+        \u0020dokusho = reading \n\n
+        \u0020お菓子作り \n
+        \u0020okashi zukuri = making candy \n\n
+        \u0020アニメ鑑賞 \n
+        \u0020anime kanshō = watching anime \n\n
+        \u0020天体観測 \n
+        \u0020tentai kansoku = stargazing \n\n
+        \u0020テレビゲーム \n
+        \u0020terebi gēmu = video games \n\n
+        \u0020トレーディングカード \n
+        \u0020trēdingu kādo = trading cards \n\n
+        \u0020クラシックバレエ \n
+        \u0020kurashikku barē = dancing classic ballet \n\n
+        \u0020ジョギング \n
+        \u0020jogingu = jogging\n\n
+        \u0020ボードゲーム \n
+        \u0020bōdo gēmu = board games\n\n
+    </string>
+    <string name="Family">
+         \u0020	そふ \n
+        \u0020sofu = Grandfather \n\n
+        \u0020そぼ \n
+        \u0020sobo = Grandmother \n\n
+        \u0020おじ \n
+        \u0020oji = Uncle \n\n
+        \u0020おば
+        \u0020oba = Aunt \n\n
+        \u0020りょうしん \n
+        \u0020ryoushin = Parents \n\n
+        \u0020ちち \n
+        \u0020chichi = Father \n\n
+        \u0020はは \n
+        \u0020haha = Mother \n\n
+        \u0020きょうだい \n
+        \u0020kyoudai = Brothers \n\n
+        \u0020しまい \n
+        \u0020shimai = Sisters \n\n
+        \u0020あに \n
+        \u0020ani = Older Brother \n\n
+        \u0020あね \n
+        \u0020ane = Older Sister \n\n
+        \u0020おとうと\n
+        \u0020otouto = Younger Brother \n\n
+        \u0020いもうと \n
+        \u0020imouto = Younger Sister \n\n
+        \u0020ふうふ \n
+        \u0020fuufu = Married Couple \n\n
+        \u0020しゅじん \n
+        \u0020shujin = Husband\n\n
+        \u0020かない \n
+        \u0020kanai = Wife\n\n
+    </string>
+    <string name="Food">
+         \u0020にほんりょうり \n
+        \u0020nihon ryouri = Japanese Cuisine \n\n
+        \u0020ちょうしょく \n
+        \u0020chou shoku = Breakfast \n\n
+        \u0020ちゅうしょく \n
+        \u0020chuu shoku =  shoku	Lunch \n\n
+        \u0020ゆうしょく
+        \u0020yuu shoku = Dinner \n\n
+        \u0020やしょく \n
+        \u0020ya shoku = Supper \n\n
+        \u0020おかず \n
+        \u0020okazu = Side Dish \n\n
+        \u0020おやつ \n
+        \u0020oyatsu = Snack \n\n
+        \u0020べんとう \n
+        \u0020bentou = Box Lunch \n\n
+        \u0020えきべん \n
+        \u0020ekiben = Train Station Box Lunch \n\n
+        \u0020ごはん \n
+        \u0020gohan = Cooked Rice \n\n
+        \u0020さしみ \n
+        \u0020sashimi = Sliced Raw Fish \n\n
+        \u0020sushi = Sushi \n\n
+        \u0020てんぷら \n
+        \u0020tenpura = Tempura \n\n
+        \u0020ぎゅうどん \n
+        \u0020gyuu don = Rice topped with Beef and Vegetables \n\n
+        \u0020おやこどん \n
+        \u0020oyako don = Rice topped with Boiled Chicken and Eggs \n\n
+        \u0020てんどん \n
+        \u0020ten don = Rice topped with Deep-fried Prawns and Fishes \n\n
+    </string>
+    <string name="Gestures">
+         \u0020わたし \n
+        \u0020Watashi = Me \n\n
+        \u0020こっちきて \n
+        \u0020kochi kitte = come here \n\n
+        \u0020きてきて \n
+        \u0020kitte kitte = Come come \n\n
+        \u0020おねがい
+        \u0020onegai = please \n\n
+        \u0020おかね \n
+        \u0020okane = Money \n\n
+        \u0020だめ \n
+        \u0020dame = not allowed \n\n
+        \u0020おこっている \n
+        \u0020okotteiru = angry \n\n
+        \u0020イライラする \n
+        \u0020ira ira suru = irritated \n\n
+        \u0020わかりません \n
+        \u0020wakarimasen = I don’t know \n\n
+        \u0020かわいい \n
+        \u0020kawaii = Cute \n\n
+        \u0020こいびと \n
+        \u0020koibito = Lover \n\n
+        \u0020ひさしぶり \n
+        \u0020hisashiburi = long time no see \n\n
+        \u0020会釈 \n
+        \u0020Eshaku = Saluting \n\n
+        \u0020敬礼 \n
+        \u0020Keirei = Respectful saluting \n\n
+        \u0020最敬礼 \n
+        \u0020Saikeirei = Deep apology \n\n
+        \u0020目礼 \n
+        \u0020Mokurei = Eye Contact \n\n
+    </string>
+
+</resources>

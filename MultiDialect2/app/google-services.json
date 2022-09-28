@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413999268481",
+    "firebase_url": "https://multidialect-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "multidialect",
+    "storage_bucket": "multidialect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413999268481:android:b38cd9aeee2a5ce8ac4380",
+        "android_client_info": {
+          "package_name": "com.example.multidialect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413999268481-4bnvme5ful4h48q442pefd86ep135t2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multidialect",
+            "certificate_hash": "b7fcc3c72accd6472564b577788a7f492f634974"
+          }
+        },
+        {
+          "client_id": "413999268481-p84vheefsgbse3m1h4f1eauhojkbepfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBETr4t2Gv_X1YY7W2tn0XYsEKev7cLTdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413999268481-p84vheefsgbse3m1h4f1eauhojkbepfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

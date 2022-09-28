@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OptionsAct"
+    android:orientation='vertical'>
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/optionsBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#FFA500"
+        >
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="17dp"
+        android:text="Learn + Quiz"
+        android:textSize="27sp"
+        android:textStyle="bold" />
+
+    <GridView
+        android:layout_width="match_parent"
+        android:id="@+id/options_views"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:horizontalSpacing="17dp"
+        android:columnWidth="100dp"
+        android:gravity="center"
+        android:verticalSpacing="17dp"
+        android:padding="17dp"
+        android:numColumns="auto_fit"
+        />
+
+    <EditText
+        android:id="@+id/playName"
+        android:ems="10"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:inputType="textPersonName"
+        android:hint="Enter Nickname" />
+
+    <Button
+        android:id="@+id/Invite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Random Multiplayer" />
+
+</LinearLayout>
